@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "232393047442",
+    "firebase_url": "https://market-f2d30.firebaseio.com",
+    "project_id": "market-f2d30",
+    "storage_bucket": "market-f2d30.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232393047442:android:4260e3c20c4f04dc",
+        "android_client_info": {
+          "package_name": "com.example.marketshare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "232393047442-9015ggul0vh9eis1u4vv4hsv3p0qr3ea.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.marketshare",
+            "certificate_hash": "3fd40e2f70a86e3a28db671bc072d25d9a6eda51"
+          }
+        },
+        {
+          "client_id": "232393047442-0j57tceaf33804noeqcg1hq3g9c1pega.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgh8MsWq0bptSaVx8_Sf8N9V0gmH2bUdU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "232393047442-0j57tceaf33804noeqcg1hq3g9c1pega.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
